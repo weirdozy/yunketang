@@ -1,0 +1,228 @@
+.header-bg-dark {
+    position: relative;
+    z-index: 101;
+    background-color: #2e3741;
+    box-shadow: 0px 4px 20px 2px rgba(0,0,0,0.2);
+}
+.c_container1200 {
+    max-width: 1200px;
+    min-width: 1200px;
+    margin: 0 auto;
+}
+.yxt-headerbox {
+    padding: 13px 0;
+    height: 82px;
+    line-height: 55px;
+}
+.c_container1200 {
+    max-width: 1200px;
+    min-width: 1200px;
+    margin: 0 auto;
+}
+.clearfix:before {
+    content: "";
+    display: table;
+}
+
+.yxt-headerbox a.yxt-logo {
+    display: inline-block;
+    width: 161.5px;
+    height: 50px;
+    margin-top: 2.5px;
+    background: url(https://picobd.yxt.com/orgs/yxt_malladmin/mvcpic/image/201811/7167274….png);
+    background-size: cover;
+}
+.header-bg-dark .yxt-headerbox a {
+    color: #fff;
+}
+.yxt-headerbox a {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+.pull-left {
+    float: left !important;
+}
+a {
+    color: #333;
+    text-decoration: none;
+    transition: all .15s ease-out;
+}
+.yxt-headerbox .nav-aside {
+    margin-left: 35px;
+    line-height: 18px;
+}
+.pull-right {
+    float: right !important;
+}
+.nav-aside {
+    margin-bottom: 0;
+}
+.pull-right {
+    float: right;
+}
+.pull-right {
+    float: right!important;
+}
+ul, li, ol {
+    list-style: none;
+    padding: 0;
+}
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.yxt-headerbox .nav-list li, .yxt-headerbox .nav-aside li {
+    opacity: 1;
+    -webkit-animation: searchrecord-nav-show 400ms both;
+    animation: searchrecord-nav-show 400ms both;
+}
+.yxt-headerbox .nav-aside li {
+    float: left;
+    padding: 18px 13px 16px;
+}
+.header-bg-dark .yxt-headerbox .nav-aside li.user a {
+    background-position: -20px -1px;
+}
+.yxt-headerbox .nav-aside li.user a {
+    background-position: 0 -1px;
+}
+.yxt-headerbox .nav-aside li>a {
+    display: inline-block;
+    width: 20px;
+    height: 18px;
+    background: ########;
+}
+.header-bg-dark .yxt-headerbox a {
+    color: #fff;
+}
+.yxt-headerbox a {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+a {
+    color: #333;
+    text-decoration: none;
+    transition: all .15s ease-out;
+}
+a {
+    -webkit-transition: color .15s ease-out;
+    transition: color .15s ease-out;
+}
+a {
+    color: #39f;
+    color: #188eee;
+    text-decoration: none;
+}
+a {
+    color: #2aabe6;
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.yxt-headerbox .nav-aside {
+    margin-left: 35px;
+    line-height: 18px;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+.yxt-headerbox {
+    padding: 13px 0;
+    height: 82px;
+    line-height: 55px;
+}
+.yxt-header-search {
+    display: none;
+    position: absolute;
+    left: 1145px;
+    width: 542px;
+    padding: 0 10px;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+}
+.yxt-header-search .record-animated {
+    -webkit-animation: searchrecord-items-show 400ms both;
+    animation: searchrecord-items-show 400ms both;
+}
+.yxt-header-search .search-input {
+    padding: 10px 30px;
+    height: 55px;
+}
+.pr {
+    position: relative;
+}
+.pr {
+    position: relative;
+}
+.yxt-header-search .closeico {
+    background-position: 0 -79px;
+    left: 0;
+}
+.yxt-header-search .closeico, .yxt-header-search .searchico {
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    margin-top: -10px;
+    width: 20px;
+    height: 20px;
+    background: url(http://www.yxt.com/context/yxtweb/images/header/ico.png);
+    -webkit-transition: all .15s ease-out;
+    transition: all .15s ease-out;
+}
+input[type='text'], button {
+    -webkit-appearance: none;
+    appearance: none;
+}
+.yxt-header-search input {
+    position: absolute;
+    left: 30px;
+    color: #fff;
+    width: 462px;
+    height: 35px;
+    padding: 2px 8px;
+    line-height: 31px;
+    background-color: #2e3741;
+    border: 1px solid #2e3741;
+}
+input, textarea {
+    tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: transparent;
+}
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+input {
+    line-height: normal;
+}
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+.yxt-header-search .searchico {
+    background-position: -20px -79px;
+    right: 0;
+}
+.yxt-header-search .closeico, .yxt-header-search .searchico {
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    margin-top: -10px;
+    width: 20px;
+    height: 20px;
+    background: url(images/header/ico.png);
+    -webkit-transition: all .15s ease-out;
+    transition: all .15s ease-out;
+}
